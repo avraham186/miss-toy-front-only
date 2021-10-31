@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miss-toy-front-only/static/css/main.3677fa02.chunk.css",
+    "main.js": "/miss-toy-front-only/static/js/main.3e2e0297.chunk.js",
+    "main.js.map": "/miss-toy-front-only/static/js/main.3e2e0297.chunk.js.map",
+    "runtime-main.js": "/miss-toy-front-only/static/js/runtime-main.b06b3b6c.js",
+    "runtime-main.js.map": "/miss-toy-front-only/static/js/runtime-main.b06b3b6c.js.map",
+    "static/js/2.a27de179.chunk.js": "/miss-toy-front-only/static/js/2.a27de179.chunk.js",
+    "static/js/2.a27de179.chunk.js.map": "/miss-toy-front-only/static/js/2.a27de179.chunk.js.map",
+    "static/js/3.2bdb8b04.chunk.js": "/miss-toy-front-only/static/js/3.2bdb8b04.chunk.js",
+    "static/js/3.2bdb8b04.chunk.js.map": "/miss-toy-front-only/static/js/3.2bdb8b04.chunk.js.map",
+    "index.html": "/miss-toy-front-only/index.html",
+    "static/css/main.3677fa02.chunk.css.map": "/miss-toy-front-only/static/css/main.3677fa02.chunk.css.map",
+    "static/js/2.a27de179.chunk.js.LICENSE.txt": "/miss-toy-front-only/static/js/2.a27de179.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/miss-toy-front-only/static/media/Roboto-Regular.a8d6ac03.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b06b3b6c.js",
+    "static/js/2.a27de179.chunk.js",
+    "static/css/main.3677fa02.chunk.css",
+    "static/js/main.3e2e0297.chunk.js"
+  ]
+}
